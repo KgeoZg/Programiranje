@@ -18,6 +18,6 @@ Dokument je strukturiran tako da postupno uvodi koncepte, a oblikovan da potakne
 
 Preporučena literatura za bolje razumijevanje sadržaja vježbi:
 1. Kljajić, I., Programiranje, ppt-predavanja
-2. Schildt, H., [Java The Complete Reference](https://www.sietk.org/downloads/javabook.pdf), 9th edition, Oracle 
+2. Schildt, H., [Java The Complete Reference](https://www.sietk.org/downloads/javabook.pdf), 9th edition, Oracle, 2014
 3. Materijali objavljeni na e-kolegiju
 4. Web izvori: npr. https://www.w3schools.com/java/default.asp
