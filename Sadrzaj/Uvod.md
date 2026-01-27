@@ -5,3 +5,19 @@ nav_order: 1
 has_children: true
 ---
 Nastavni materijal uz vježbe namijenjen studentima kolegija **Programiranje na Geodetskom fakulteta Sveučilišta u Zagrebu**.
+
+# Programiranje
+
+Programiranje je temeljni način na koji suvremeni svijet oblikuje, automatizira i razumije složene sustave. U ovom dokumentu programiranje se razmatra kroz objektno orijentirani pristup, pri čemu se naglasak stavlja na modeliranje problema pomoću klasa, objekata i njihovih međusobnih odnosa. Takav pristup omogućuje jasnije razmišljanje o strukturi programa, njegovoj održivosti i mogućnosti daljnjeg razvoja.
+
+Java je jedan od Objektno orijentiranih programskih jezika koji na jasan i eksplicitan način podržava objektno orijentirano programiranje, uz istodobnu primjenu u stvarnim, industrijskim okruženjima. Kao jezik koji se temelji na Java virtualnom stroju (JVM), Java omogućuje prenosivost, stabilnost i dugoročnu održivost programskih rješenja, što je čini prikladnom i za učenje temeljnih koncepata i za razvoj aplikacija.
+
+Cilj ovog materijala nije samo upoznavanje sa sintaksom jezika Java, već razumijevanje načina razmišljanja programera. Programiranje se ovdje promatra kao proces analize problema, apstrakcije, dizajniranja rješenja i kritičkog vrednovanja vlastitog koda.
+
+Dokument je strukturiran tako da postupno uvodi koncepte, a oblikovan da potakne aktivan pristup učenju: čitanje, isprobavanje koda i promišljanje ponuđenih rješenja.
+
+Preporučena literatura za bolje razumijevanje sadržaja vježbi:
+1. Kljajić, I., Programiranje, ppt-predavanja
+2. Chapman, S.J., Java for Engineers and Scientists, Prentice Hall, 2003
+3. Materijali objavljeni na e-kolegiju
+4. Web izvori: npr. https://www.w3schools.com/java/default.asp
