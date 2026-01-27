@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Reljef
-nav_order: 3
+title: Dijagram toka i pseudokod
+nav_order: 1
 parent: Uvod
 ---
 # Reljef 
