@@ -19,7 +19,7 @@ Dijagram toka i pseudokod koriste se za prikazivanje algoritamskog razmišljanja
 >[!NOTE]
 > <p align="justify">Dijagram toka je grafički prikaz algoritma koji pomaže programeru u boljem shvaćanju problema koji se rješava. Koriste se grafičke varijable (npr. pravokutnik) koji olakšavaju shvaćanje pristupa rješavanju problema. Koristi se kao univerzalno sredstvo jer se temeljem njega rješenje problema može isprogramirati u bilo kojem programskom jeziku.
 <p align="center">
-<img align="center" src="">
+<img align="center" src="https://github.com/KgeoZg/Programiranje/blob/main/Sadrzaj/Slike/Tok.jpg">
 
 >[!NOTE]
 > <p align="justify">Pseudokod je drugačiji pristup boljem shvaćanju problema kojeg programer mora riješiti. Što je problem kompleksniji, to dijagram toka postaje sve masivniji: veći i kompleksniji za shvaćanje. Zbog toga se često umjesto dijagrama toka koristi pseudokod u kojem se grafičke varijable (npr. pravokutnik) zamjenjuju terminima govornog jezika. To ga čini prikladnijim za opis složenijih algoritama.
