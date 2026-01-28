@@ -1,7 +1,3 @@
-body {
-  background: #e0f2ff !important;
-}
-
 details {
   margin: 1rem 0;
   font-size: 1.05rem;
@@ -27,7 +23,7 @@ summary::-webkit-details-marker {
 
 summary::before {
   content: "▸";
-  font-size: 1.2rem;
+  margin-right: 0.5rem;
   transition: transform 0.2s ease;
 }
 
@@ -37,3 +33,4 @@ details[open] summary::before {
 
 details > *:not(summary) {
   margin-top: 0.75rem;
+}
