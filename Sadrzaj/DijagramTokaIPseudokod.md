@@ -14,6 +14,10 @@ Po završetku ovih vježbi student će moći:
 -  Formirati analitičko razmišljanje
 -  Razumjeti i znati primijeniti dijagram toka/pseudokod za rješavanje problema
 
+<details>
+  <summary><strong>Osnovni koncepti </strong></summary>
+
+## Poznato
 Dijagram toka i pseudokod koriste se za prikazivanje algoritamskog razmišljanja, ali među njima postoje razlike:
 
 >[!NOTE]
@@ -30,5 +34,6 @@ Dijagram toka i pseudokod koriste se za prikazivanje algoritamskog razmišljanja
 >[!IMPORTANT]
 >Odabir načina formalizacije algoritamskog razmišljanja ovisi o osobi koja rješava zadatak i zahtjevnosti zadatka.
 
->
-Sastaviti dijagram toka i pseudokod za računanje površine pravokutne katastarske čestice s proizvoljnom duljinom stranica a i b.
+</details>
+
+### Sastaviti dijagram toka i pseudokod za računanje površine pravokutne katastarske čestice s proizvoljnom duljinom stranica a i b.
