@@ -121,7 +121,7 @@ has_children: true
             <div class="hotspot-wrapper">
                 <div class="hotspot-container" style="width: 100px; margin: 0 auto; display: inline-block;">
                     <!-- 1. Your Main Image -->
-                        <img src="{{ 'assets/images/3_Ogledni zadatak 1 pseudokod.png' | relative_url}}" alt="Dijagram toka">
+                        <img src="{{ '/assets/images/3_Ogledni zadatak 1 pseudokod.png' | relative_url}}" alt="Dijagram toka">
 
 
                     <!-- 2. Početak Hotspot Dot (Positioned at 2.5% from top, 2% from right) -->
