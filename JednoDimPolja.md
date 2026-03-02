@@ -49,7 +49,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 650px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ '/assets\images\13_BufferedReader.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets/images/13_BufferedReader.png' | relative_url}}" alt="Dijagram toka">
 
 
                         <!-- 2. Tip podatka Hotspot Dot (Positioned at 30% from top, 47% from right) -->
@@ -168,7 +168,7 @@ has_children: true
             <div class="hotspot-wrapper">
                 <div class="hotspot-container" style="width: 330px; margin: 0 auto; display: inline-block;">
                     <!-- 1. Your Main Image -->
-                        <img src="{{ '/assets\images\14_Scanner.png' | relative_url}}" alt="Dijagram toka">
+                        <img src="{{ '/assets/images/14_Scanner.png' | relative_url}}" alt="Dijagram toka">
 
 
                     <!-- 2. Tip podatka Hotspot Dot (Positioned at 2.5% from top, 2% from right) -->
@@ -291,7 +291,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 350px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ '/assets\images\15_OgledniZadatak_Dijagram.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets/images/15_OgledniZadatak_Dijagram.png' | relative_url}}" alt="Dijagram toka">
 
 
                         <!-- 2. Ulaz Hotspot Dot (Positioned at 30% from top, 47% from right) -->
@@ -359,7 +359,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 300px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ '/assets\images\15_OgledniZadatak_Pseudokod.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets/images/15_OgledniZadatak_Pseudokod.png' | relative_url}}" alt="Dijagram toka">
 
                     </div>
                 </div>
@@ -368,7 +368,7 @@ has_children: true
             <div class="hotspot-wrapper">
                 <div class="hotspot-container" style="width: 600px; margin: 0 auto; display: inline-block;">
                     <!-- 1. Your Main Image -->
-                        <img src="{{ '/assets\images\15_OgledniZadatak_Kod.png' | relative_url}}" alt="Dijagram toka">
+                        <img src="{{ '/assets/images/15_OgledniZadatak_Kod.png' | relative_url}}" alt="Dijagram toka">
 
 
                     <!-- 2. Ucitavanje paketa Hotspot Dot (Positioned at 2.5% from top, 2% from right) -->

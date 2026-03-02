@@ -31,7 +31,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 230px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ '/assets\images\18_OgledniZadatak_Dijagram.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets/images/18_OgledniZadatak_Dijagram.png' | relative_url}}" alt="Dijagram toka">
                         <!-- 2. Programska poruka Hotspot Dot (Positioned at 30% from top, 47% from right) -->
                         <div class="hotspot" style="top: 8%; right: 33%;">
                             <div class="hotspot--inner" style="background: #fbb300;"></div>
@@ -87,7 +87,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 400px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ '/assets\images\18_OgledniZadatak_Pseudokod.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets/images/18_OgledniZadatak_Pseudokod.png' | relative_url}}" alt="Dijagram toka">
                         <!-- 2. Zapis stringa Hotspot Dot -->
                         <div class="hotspot" style="top: 35%; right: 36%;">
                             <div class="hotspot--inner" style="background: #fbb300;"></div>
@@ -102,7 +102,7 @@ has_children: true
             <div class="hotspot-wrapper">
                 <div class="hotspot-container" style="width: 550px; margin: 0 auto; display: inline-block;">
                     <!-- 1. Your Main Image -->
-                        <img src="{{ '/assets\images\18_OgledniZadatak_Kod.png' | relative_url}}" alt="Dijagram toka">
+                        <img src="{{ '/assets/images/18_OgledniZadatak_Kod.png' | relative_url}}" alt="Dijagram toka">
                     <!-- 2. Objekt String Hotspot Dot -->
                     <div class="hotspot" style="top: 45%; right: 50%;">
                         <div class="hotspot--inner" style="background: #fbb300;"></div>

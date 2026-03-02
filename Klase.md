@@ -83,7 +83,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 500px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ '/assets\images\17_OgledniZadatak_Dijagram.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets/images/17_OgledniZadatak_Dijagram.png' | relative_url}}" alt="Dijagram toka">
                         <!-- 0.1. Klasa Povrsina Hotspot Dot -->
                         <div class="hotspot" style="top: -5%; right: 5%;">
                             <div class="hotspot--inner" style="background: #26fb00;"></div>
@@ -173,14 +173,14 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 280px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ '/assets\images\17_OgledniZadatak_Pseudokod.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets/images/17_OgledniZadatak_Pseudokod.png' | relative_url}}" alt="Dijagram toka">
                     </div>
                 </div>
             <p><strong>Predloženi kod u Javi</strong></p>
             <div class="hotspot-wrapper">
                 <div class="hotspot-container" style="width: 650px; margin: 0 auto; display: inline-block;">
                     <!-- 1. Your Main Image -->
-                        <img src="{{ '/assets\images\17_OgledniZadatak_Kod.png' | relative_url}}" alt="Dijagram toka">
+                        <img src="{{ '/assets/images/17_OgledniZadatak_Kod.png' | relative_url}}" alt="Dijagram toka">
                     <!-- 2. Pozivanje metode Hotspot Dot (Positioned at 2.5% from top, 2% from right) -->
                     <div class="hotspot" style="top: 52%; right: 52%;">
                         <div class="hotspot--inner" style="background: #fbb300;"></div>
@@ -251,7 +251,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 350px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ '/assets\images\17_OgledniZadatak_Dijagram_2.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets/images/17_OgledniZadatak_Dijagram_2.png' | relative_url}}" alt="Dijagram toka">
                         <!-- 0.1. Klasa Povrsina Hotspot Dot (Positioned at 30% from top, 47% from right) -->
                         <div class="hotspot" style="top: -3%; right: 15%;">
                             <div class="hotspot--inner" style="background: #26fb00;"></div>
@@ -371,7 +371,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 350px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ '/assets\images\17_OgledniZadatak_Pseudokod_2.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets/images/17_OgledniZadatak_Pseudokod_2.png' | relative_url}}" alt="Dijagram toka">
                     </div>
                 </div>
             <p><strong>Predloženi kod u Javi</strong></p>
@@ -379,7 +379,7 @@ has_children: true
                 <div class="hotspot-container" style=
                 "width: 580px; margin: 0 auto; display: inline-block;">
                     <!-- 1. Your Main Image -->
-                        <img src="{{ '/assets\images\17_OgledniZadatak_Kod_2.png' | relative_url}}" alt="Dijagram toka">
+                        <img src="{{ '/assets/images/17_OgledniZadatak_Kod_2.png' | relative_url}}" alt="Dijagram toka">
                     <!-- 2. Klasa Povrsina Hotspot Dot -->
                     <div class="hotspot" style="top: 3%; right: 71%;">
                         <div class="hotspot--inner" style="background: #fbb300;"></div>
