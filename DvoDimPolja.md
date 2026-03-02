@@ -42,7 +42,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 500px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ 'assets\images\16_OgledniZadatak_Dijagram.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets\images\16_OgledniZadatak_Dijagram.png' | relative_url}}" alt="Dijagram toka">
                         <!-- 2. Ulaz Hotspot Dot (Positioned at 30% from top, 47% from right) -->
                         <div class="hotspot" style="top: 5.5%; right: 53%;">
                             <div class="hotspot--inner" style="background: #fbb300;"></div>
@@ -144,14 +144,14 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 450px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ 'assets\images\16_OgledniZadatak_Pseudokod.png' | relative_url}}" alt="Dijagram toka">
+                            <img src="{{ '/assets\images\16_OgledniZadatak_Pseudokod.png' | relative_url}}" alt="Dijagram toka">
                     </div>
                 </div>
             <p><strong>Predloženi kod u Javi</strong></p>
             <div class="hotspot-wrapper">
                 <div class="hotspot-container" style="width: 650px; margin: 0 auto; display: inline-block;">
                     <!-- 1. Your Main Image -->
-                        <img src="{{ 'assets\images\16_OgledniZadatak_Kod.png' | relative_url}}" alt="Dijagram toka">
+                        <img src="{{ '/assets\images\16_OgledniZadatak_Kod.png' | relative_url}}" alt="Dijagram toka">
                     <!-- 2. Deklaracija polja Hotspot Dot -->
                     <div class="hotspot" style="top: 29%; right: 63%;">
                         <div class="hotspot--inner" style="background: #fbb300;"></div>

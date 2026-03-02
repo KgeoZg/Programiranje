@@ -47,7 +47,7 @@ has_children: true
                 <div class="hotspot-wrapper">
                     <div class="hotspot-container" style="width: 600px; margin: 0 auto; display: inline-block;">
                         <!-- 1. Your Main Image -->
-                            <img src="{{ 'assets\images\9_OgledniZadatak 1.png' | relative_url}}" alt="Kod u Javi">
+                            <img src="{{ '/assets\images\9_OgledniZadatak 1.png' | relative_url}}" alt="Kod u Javi">
 
 
                         <!-- 2. Klasa Hotspot Dot (Positioned at 2.5% from top, 2% from right) -->
