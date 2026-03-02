@@ -1,8 +1,14 @@
-title: Just the Docs Template
+title: Programiranje
 description: A starter template for a Jeykll site using the Just the Docs theme!
 remote_theme: just-the-docs/just-the-docs
 
-url: https://just-the-docs.github.io
+# This tells the theme to look for your custom.scss
+search_enabled: true
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Setup for local development
+url: "https://KgeoZg.github.io"
+baseurl: "Programiranje" 
+
+plugins:
+  - jekyll-sass-converter
+  - jekyll-remote-theme

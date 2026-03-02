@@ -1,7 +1,13 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
-# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+gem "jekyll", "~> 4.4.1"
+gem "webrick", "~> 1.7"
+gem "just-the-docs"
+gem "jekyll-remote-theme"
 
-gem "just-the-docs", "0.12.0" # pinned to the current release
-# gem "just-the-docs"        # always download the latest release
+# Ruby 3.4.0 fixes
+gem "jekyll-sass-converter", "~> 2.2"
+gem "bigdecimal", "~> 3.1"
+gem "logger", "~> 1.6"
+gem "mutex_m", "~> 0.3.0"
+gem "base64", "~> 0.2.0"

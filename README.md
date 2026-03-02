@@ -1,37 +1,22 @@
 # just-the-docs-template
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+Nastavni materijal uz vježbe namijenjen studentima kolegija **Programiranje na Geodetskom fakulteta Sveučilišta u Zagrebu**.
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+# Programiranje
 
-More specifically, the created site:
+<p align="justify">Programiranje je temeljni način na koji suvremeni svijet oblikuje, automatizira i razumije složene sustave. U ovom dokumentu programiranje se razmatra kroz objektno orijentirani pristup, pri čemu se naglasak stavlja na modeliranje problema pomoću klasa, objekata i njihovih međusobnih odnosa. Takav pristup omogućuje jasnije razmišljanje o strukturi programa, njegovoj održivosti i mogućnosti daljnjeg razvoja.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+<p align="justify">Java je jedan od Objektno orijentiranih programskih jezika koji na jasan i eksplicitan način podržava objektno orijentirano programiranje, uz istodobnu primjenu u stvarnim, industrijskim okruženjima. Kao jezik koji se temelji na Java virtualnom stroju (JVM), Java omogućuje prenosivost, stabilnost i dugoročnu održivost programskih rješenja, što je čini prikladnom i za učenje temeljnih koncepata i za razvoj aplikacija.
 
-To get started with creating a site, simply:
+<p align="justify">Cilj ovog materijala nije samo upoznavanje sa sintaksom jezika Java, već razumijevanje načina razmišljanja programera. Programiranje se ovdje promatra kao proces analize problema, apstrakcije, dizajniranja rješenja i kritičkog vrednovanja vlastitog koda.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+<p align="justify">Dokument je strukturiran tako da postupno uvodi koncepte, a oblikovan da potakne aktivan pristup učenju: čitanje, isprobavanje koda i promišljanje ponuđenih rješenja.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
-
-After completing the creation of your new site on GitHub, update it as needed:
-
-## Replace the content of the template pages
-
-Update the following files to your own content:
-
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
-
-## Changing the version of the theme and/or Jekyll
-
-Simply edit the relevant line(s) in the `Gemfile`.
-
-## Adding a plugin
+<p><ul>Preporučena literatura za bolje razumijevanje sadržaja vježbi:
+<li>1. Kljajić, I., Programiranje, ppt-predavanja</li>
+<li>2. Schildt, H., [Java The Complete Reference](https://www.sietk.org/downloads/javabook.pdf), 9th edition, Oracle, 2014</li>
+<li>3. Materijali objavljeni na e-kolegiju</li>
+<li>4. Web izvori: npr. https://www.w3schools.com/java/default.asp</li></ul></p>
 
 The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
 
