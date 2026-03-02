@@ -127,7 +127,7 @@ has_children: true
                             <div class="hotspot--content">
                                 <h4>Korak brojača <em>i</em></h4>
                                 <p>Jednom kad je unutarnja petlja došla do zadnjeg elementa u razmatranom retku, uvjet nastavka više nije zadovoljen i petlja se vraća u vanjsku <em>for</em> petlju. Tamo se događa korak u kojem se mijenja vrijednost brojača <em>i</em>. On se opet povećava za jedan.<br>
-                                Obje petlje se tako izvršavaju dok uvjeti nastavka obiju petlji nisu neispunjeni.</p>
+                                Obje gpetlje se tako izvršavaju dok uvjeti nastavka obiju petlji nisu neispunjeni.</p>
                             </div>
                         </div>
                         <!-- 12. Ispis rezultata Hotspot Dot -->

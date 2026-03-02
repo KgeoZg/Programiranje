@@ -7,7 +7,7 @@ search_enabled: true
 
 # Setup for local development
 url: "https://KgeoZg.github.io"
-baseurl: "Programiranje" 
+baseurl: "/Programiranje" 
 
 plugins:
   - jekyll-sass-converter

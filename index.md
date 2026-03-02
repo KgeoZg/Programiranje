@@ -4,7 +4,7 @@ layout: home
 
 <div class="small-text">
 NASTAVNI MATERIJAL UZ VJEŽBE NAMIJENJEN STUDENTIMA KOLEGIJA <strong>PROGRAMIRANJE</strong> NA GEODETSKOM FAKULTETU SVEUČILIŠTA U ZAGREBU. </div>
-<img src="{{ 'assets\images\0_Logo fakulteta.png' | relative_url }}" style="display: block; margin-left: 0 auto; max-width: 20%;">
+<img src="{{ 'assets\images\0_LogoFakulteta.png' | relative_url }}" style="display: block; margin-left: 0 auto; max-width: 20%;">
 # Programiranje
 <p align="justify">Programiranje je temeljni način na koji suvremeni svijet oblikuje, automatizira i razumije složene sustave. U ovom dokumentu programiranje se razmatra kroz objektno orijentirani pristup, pri čemu se naglasak stavlja na modeliranje problema pomoću klasa, objekata i njihovih međusobnih odnosa. Takav pristup omogućuje jasnije razmišljanje o strukturi programa, njegovoj održivosti i mogućnosti daljnjeg razvoja.
 
