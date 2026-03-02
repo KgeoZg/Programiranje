@@ -20,11 +20,11 @@ parent: Dijagram toka i pseudokod
 ### Rješenje
 <strong>Dijagram toka</strong>
 <br>
-    <img src="{{ 'assets\images\4_Dijagram toka_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 20%;" alt="Centered Image">
+    <img src="{{ '/assets/images/4_Dijagram toka_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 20%;" alt="Centered Image">
     <br>
 <strong>Pseudokod</strong><br>
 <br>
-<img src="{{ 'assets\images\4_Pseudokod_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 50%;" alt="Centered Image">
+<img src="{{ '/assets/images/4_Pseudokod_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 50%;" alt="Centered Image">
   </div>
 </div>
 <br>
@@ -105,11 +105,11 @@ Izračun treba ispisati u obliku:<br>
 ### Rješenje
 <strong>Dijagram toka</strong>
     <br>
-    <img src="{{ 'assets\images\5_Dijagram toka_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 45%;" alt="Centered Image">
+    <img src="{{ '/assets/images/5_Dijagram toka_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 45%;" alt="Centered Image">
     <br>
     <strong>Pseudokod</strong><br>
     <br>
-    <img src="{{ 'assets\images\5_Pseudokod_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 60%;" alt="Centered Image">
+    <img src="{{ '/assets/images/5_Pseudokod_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 60%;" alt="Centered Image">
 
   </div>
 </div>
@@ -128,11 +128,11 @@ Izračun treba ispisati u obliku:<br>
 ### Rješenje
 <strong>Dijagram toka</strong><br>
 <br>
-    <img src="{{ 'assets\images\6_Dijagram toka_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 30%;" alt="Centered Image">
+    <img src="{{ '/assets/images/6_Dijagram toka_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 30%;" alt="Centered Image">
     <br>
 <strong>Pseudokod</strong><br>
 <br>
-<img src="{{ 'assets\images\6_Pseudokod_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 80%;" alt="Centered Image">
+<img src="{{ '/assets/images/6_Pseudokod_rjesenje.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 80%;" alt="Centered Image">
   </div>
 </div>
 <br>
@@ -149,7 +149,7 @@ nepristupačnoj točki C,</ul>
 te udaljenost između pristupačnih točaka A i B. Sastaviti dijagram toka i pseudokôd za
 računanje udaljenosti nepristupačne točke C od pristupačne točke B (vidi sliku).
     <br>
-    <img src="{{ 'assets\images\7_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
+    <img src="{{ '/assets/images/7_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
     <br><br>
     <strong>Zadatak 5</strong>
     <p align="justify">Pomoću mjernog instrumenta izmjereni su kutovi u seksagezimalnoj mjeri:</p>
@@ -167,7 +167,7 @@ D;</ul>
     <br>
     Sastaviti dijagram toka i pseudokôd za računanje udaljenosti dviju nepristupačnih
 točaka C i D (vidi sliku).<br>
-    <img src="{{ 'assets\images\8_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
+    <img src="{{ '/assets/images/8_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
     <br><br>
     <strong>Zadatak 6</strong>
     <p align="justify">Pomoću mjernog instrumenta u trokutu su jednakom točnošću mjerena 3 kuta αmj, βmj i γmj u seksagezimalnoj mjeri te duljina stranice a nasuprot kuta αmj.</p>
