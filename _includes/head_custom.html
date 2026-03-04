@@ -9,7 +9,8 @@
   };
 </script>
 
-<!-- Floating Print Button -->
+{% if page.print == true %}
+
 <style>
 .print-button {
   position: fixed;
@@ -21,9 +22,7 @@
   cursor: pointer;
 }
 
-/* Clean layout when printing */
 @media print {
-
   .side-bar,
   .site-header,
   .page-header,
@@ -56,3 +55,5 @@ document.addEventListener("DOMContentLoaded", function () {
   document.body.appendChild(button);
 });
 </script>
+
+{% endif %}
