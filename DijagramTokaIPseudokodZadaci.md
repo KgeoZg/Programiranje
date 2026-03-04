@@ -8,7 +8,7 @@ print: true
 
 # Zadatci za vježbu<br>
 <strong>Zadatak 1</strong><br>
-<p align="justify">Sastaviti dijagram toka i pseudokôd za kôd programa koji računa opseg katastarske čestice čije su stranice proizvoljnih duljina te ispisuje izračunati opseg.
+<p align="justify">Sastaviti dijagram toka i pseudokôd za kôd programa koji računa opseg katastarske čestice čije su stranice proizvoljnih duljina te ispisuje izračunatu vrijednost.
 <br>
 <div class="btn-acc-group">
   <!-- Change to checkbox and remove 'name' -->
@@ -175,10 +175,9 @@ D;</ul>
     <p align="justify">Pomoću mjernog instrumenta u trokutu su jednakom točnošću mjerena 3 kuta αmj, βmj i γmj u seksagezimalnoj mjeri te duljina stranice a nasuprot kuta αmj.</p>
     Sastaviti dijagram toka i pseudokôd za kôd programa koji:<br>
     <ul>a) određuje kutne nesuglasice f i popravke v = f/3,</ul>
-    <ul>b) određuje izjednače, tj. popravlje vrijednosti kuteva,</ul>
+    <ul>b) određuje izjednačene, tj. popravljene vrijednosti kuteva,</ul>
     <ul>c) određuje nepoznate duljine stranica b i c u trokutu, te</ul>
-    <ul>d) radi kontrolu računanja</ul>
-    pomoću sinusova poučka (uvjeta).<br>
+    <ul>d) radi kontrolu računanja pomoću sinusova poučka (uvjeta).</ul>
     Kontrola računanja vezana je uz izračunate vrijednosti duljina b i c, odnosno njima
 nasuprotnih izjednačenih kuteva βizj i γizj.
 </details>
