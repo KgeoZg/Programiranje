@@ -3,7 +3,9 @@ layout: default
 title: Zadatci za vježbu 7
 nav_order: 1
 parent: Dvodimenzionalna polja
+print: true
 ---
+
 # Zadatci za vježbu<br>
 <strong>Zadatak 1</strong><br>
 <p align="justify">Pomoću tipkovnice učitati elemente matrice A tipa 3×5. Elementi matrice su cijeli brojevi. Potom:

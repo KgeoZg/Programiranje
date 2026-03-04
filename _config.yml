@@ -12,3 +12,5 @@ baseurl: "/Programiranje"
 plugins:
   - jekyll-sass-converter
   - jekyll-remote-theme
+
+favicon_ico: "assets/images/GF logo.svg"

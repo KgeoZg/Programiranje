@@ -378,3 +378,9 @@ details details .details-content {
 details details summary::before {
   color: #959da5; /* Lighter arrow */
 }
+
+@media print {
+  .print-button {
+    display: none !important;
+  }
+}

@@ -3,6 +3,7 @@ layout: default
 title: Zadatci za vježbu 8
 nav_order: 1
 parent: Klase, metode i paketi
+print: true
 ---
 # Zadatci za vježbu<br>
 <strong>Zadatak 1</strong><br>

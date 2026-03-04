@@ -3,6 +3,7 @@ layout: default
 title: Zadatci za vježbu 9
 nav_order: 1
 parent: Znakovni niz
+print: true
 ---
 # Zadatci za vježbu<br>
 <strong>Zadatak 1</strong><br>

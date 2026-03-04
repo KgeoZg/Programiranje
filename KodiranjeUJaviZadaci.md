@@ -3,6 +3,7 @@ layout: default
 title: Zadatci za vježbu 2
 nav_order: 1
 parent: Kodiranje u Javi
+print: true
 ---
 # Zadatci za vježbu<br>
 <strong>Zadatak 1</strong><br>

@@ -3,7 +3,9 @@ layout: default
 title: Zadatci za vježbu 1
 nav_order: 1
 parent: Dijagram toka i pseudokod
+print: true
 ---
+
 # Zadatci za vježbu<br>
 <strong>Zadatak 1</strong><br>
 <p align="justify">Sastaviti dijagram toka i/ili pseudokod za kod koji računa opseg katastarske čestice čije su stranice proizvoljnih duljina te ispisuje izračunati opseg.
