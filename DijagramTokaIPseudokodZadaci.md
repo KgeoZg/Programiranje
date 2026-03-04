@@ -8,7 +8,7 @@ print: true
 
 # Zadatci za vježbu<br>
 <strong>Zadatak 1</strong><br>
-<p align="justify">Sastaviti dijagram toka i/ili pseudokod za kod koji računa opseg katastarske čestice čije su stranice proizvoljnih duljina te ispisuje izračunati opseg.
+<p align="justify">Sastaviti dijagram toka i pseudokôd za kôd programa koji računa opseg katastarske čestice čije su stranice proizvoljnih duljina te ispisuje izračunati opseg.
 <br>
 <div class="btn-acc-group">
   <!-- Change to checkbox and remove 'name' -->
@@ -31,8 +31,8 @@ print: true
 </div>
 <br>
 <strong>Zadatak 2</strong><br>
-<p align="justify">Sastaviti dijagram toka i pseudokôd za konverziju vrijednosti površine katastarske čestice iskazane u bečkom sustavu površina (jutro/četvorni hvat) u SI sustav površina (kvadratni metar) te potom izraziti u hektare, are i kvadratne metre.<br>
-Izračun treba ispisati u obliku:<br>
+<p align="justify">Sastaviti dijagram toka i pseudokôd za kôd programa koji konvertira vrijednost površine katastarske čestice iskazane u bečkom sustavu površina (jutro/četvorni hvat) u SI sustav površina (kvadratni metar) te ju izražava u hektarima, arima i kvadratnim metrima.<br>
+Ispis rezultata treba biti u obliku:<br>
 … jutara i … četvornih hvati = … kvadratnih metara = … hektara … ari … kvadratnih metara
 <br>
 <table class="custom-grid-table">
@@ -116,7 +116,7 @@ Izračun treba ispisati u obliku:<br>
   </div>
 </div>
 <strong>Zadatak 3</strong><br>
-<p align="justify">Sastaviti dijagram toka i pseudokôd za pretvaranje vrijednosti kuta iz seksagezimalne mjere u lučnu mjeru i obrnuto, tj. iz lučne u seksagezimalnu mjeru. Pretpostavka je da se radi o pozitivnoj vrijednosti kuta.
+<p align="justify">Sastaviti dijagram toka i pseudokôd za kôd programa koji pretvara vrijednost kuta iz seksagezimalne mjere u lučnu mjeru te ponovno u seksagezimalnu mjeru. Pretpostavka je da se radi o pozitivnoj vrijednosti kuta.
 <br>
 <div class="btn-acc-group">
   <!-- Change to checkbox and remove 'name' -->
@@ -148,11 +148,12 @@ Izračun treba ispisati u obliku:<br>
 nepristupačnoj točki C,</ul>
     <ul>b) u pristupačnoj točki B između smjera prema pristupačnoj točki A i smjera prema
 nepristupačnoj točki C,</ul>
-te udaljenost između pristupačnih točaka A i B. Sastaviti dijagram toka i pseudokôd za
-računanje udaljenosti nepristupačne točke C od pristupačne točke B (vidi sliku).
+te udaljenost između pristupačnih točaka A i B. <br>
+  Sastaviti dijagram toka i pseudokôd za kôd programa koji računa udaljenost nepristupačne točke C od pristupačne točke B (vidi sliku).
     <br>
     <img src="{{ '/assets/images/7_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
-    <br><br>
+    <br>
+    <br>
     <strong>Zadatak 5</strong>
     <p align="justify">Pomoću mjernog instrumenta izmjereni su kutovi u seksagezimalnoj mjeri:</p>
     <ul>a) u pristupačnoj točki A:</ul>
@@ -167,17 +168,16 @@ C,</ul>
 D;</ul>
     te udaljenost između pristupačnih točaka A i B.
     <br>
-    Sastaviti dijagram toka i pseudokôd za računanje udaljenosti dviju nepristupačnih
-točaka C i D (vidi sliku).<br>
+    Sastaviti dijagram toka i pseudokôd za kôd programa koji računa udaljenosti dviju nepristupačnih točaka C i D (vidi sliku).<br>
     <img src="{{ '/assets/images/8_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
     <br><br>
     <strong>Zadatak 6</strong>
     <p align="justify">Pomoću mjernog instrumenta u trokutu su jednakom točnošću mjerena 3 kuta αmj, βmj i γmj u seksagezimalnoj mjeri te duljina stranice a nasuprot kuta αmj.</p>
-    Sastaviti dijagram toka i pseudokôd za:<br>
-    <ul>a) određivanje kutne nesuglasice f i popravke v = f/3,</ul>
-    <ul>b) određivanje izjednačenih, tj. popravljenih vrijednosti kuteva,</ul>
-    <ul>c) određivanje nepoznatih duljina stranica b i c u trokutu, te</ul>
-    <ul>d) kontrolu računanja</ul>
+    Sastaviti dijagram toka i pseudokôd za kôd programa koji:<br>
+    <ul>a) određuje kutne nesuglasice f i popravke v = f/3,</ul>
+    <ul>b) određuje izjednače, tj. popravlje vrijednosti kuteva,</ul>
+    <ul>c) određuje nepoznate duljine stranica b i c u trokutu, te</ul>
+    <ul>d) radi kontrolu računanja</ul>
     pomoću sinusova poučka (uvjeta).<br>
     Kontrola računanja vezana je uz izračunate vrijednosti duljina b i c, odnosno njima
 nasuprotnih izjednačenih kuteva βizj i γizj.
