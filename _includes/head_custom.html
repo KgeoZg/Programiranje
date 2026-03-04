@@ -8,3 +8,51 @@
     }
   };
 </script>
+
+<!-- Floating Print Button -->
+<style>
+.print-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  padding: 10px 14px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+/* Clean layout when printing */
+@media print {
+
+  .side-bar,
+  .site-header,
+  .page-header,
+  .nav-list,
+  .search,
+  .footer,
+  .print-button {
+    display: none !important;
+  }
+
+  .main-content {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const button = document.createElement("button");
+  button.innerHTML = "🖨️";
+  button.className = "print-button";
+  button.title = "Download as PDF";
+  button.onclick = () => window.print();
+  document.body.appendChild(button);
+});
+</script>
