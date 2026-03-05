@@ -115,3 +115,9 @@ toleranciju 0,002; trokut nije jednakostraničan
 ### Rješenje
 Unijeti vrijednost koordinata točaka A i B za koje se unaprijed zna u kojem se kvadrantu nalazi smjerni kut.
   </div>
+  </div>
+</details>
+<br>
+<button class="btn btn-blue" onclick="var details=document.querySelectorAll('details'); details.forEach(function(d){ d.setAttribute('open', 'true'); }); window.print();">
+  🖨 Ispiši
+</button>

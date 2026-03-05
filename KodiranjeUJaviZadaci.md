@@ -37,7 +37,7 @@ Opseg iznosi 81,90m.
 <strong>Zadatak 2</strong><br>
 <p align="justify">Sastaviti dijagram toka i pseudokôd za kôd programa koji kovertira vrijednost površine katastarske čestice iskazane u bečkom sustavu površina (jutro/četvorni hvat) u SI sustav površina (kvadratni metar) te ju izražava u hektarima, arima i kvadratnim metrima.<br>
 Ispis rezultata treba biti u obliku:<br>
-… jutara i … četvornih hvati = … kvadratnih metara = … hektara … ari … kvadratnih metara
+… jutara i … četvornih hvati = … kvadratnih metara = … hektara … ari … kvadratnih metara</p>
 <br>
 <table class="custom-grid-table">
   <thead>
@@ -204,7 +204,7 @@ Iznos ispisane vrijednosti kuta mora biti identičan unesenim vrijednostima.
 </div>
 <br>
 <details>
-    <br>
+  <br>
     <summary><strong>Dodatni zadaci</strong></summary>
     <strong>Zadatak 4</strong>
     <p align="justify">Pomoću mjernog instrumenta mjereni su kutovi u seksagezimalnoj mjeri:</p>
@@ -215,7 +215,7 @@ nepristupačnoj točki C,</ul>
 te udaljenost između pristupačnih točaka A i B. <br>
 Sastaviti dijagram toka i pseudokôd za kôd programa koji računa udaljenost nepristupačne točke C od pristupačne točke B (vidi sliku).
     <br>
-    <img src="{{ 'assets\images\7_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
+    <img src="{{ 'assets/images/7_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
     <br>
     <div class="btn-acc-group">
   <!-- Change to checkbox and remove 'name' -->
@@ -228,6 +228,7 @@ Sastaviti dijagram toka i pseudokôd za kôd programa koji računa udaljenost ne
   <div id="pane-10" class="acc-panel" markdown="1">
 ### Rješenje
 Dobiveni rezultat usporediti s ručno izračunatom vrijednošću.
+  </div>
   </div>
     <br>
     <strong>Zadatak 5</strong>
@@ -245,19 +246,18 @@ D;</ul>
     te udaljenost između pristupačnih točaka A i B.
     <br>
     Sastaviti dijagram toka i pseudokôd za kôd programa koji računa udaljenosti dviju nepristupačnih točaka C i D (vidi sliku).<br>
-    <img src="{{ 'assets\images\8_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
+    <img src="{{ 'assets/images/8_Skica.png' | relative_url }}" style="display: block; margin: 0 auto; max-width: 40%;" alt="Centered Image">
     <br>
     <div class="btn-acc-group">
-  <!-- Change to checkbox and remove 'name' -->
-  <input type="checkbox" id="acc-11" class="acc-state">
-
-  <div class="acc-btn-row">
-    <label for="acc-11" class="btn btn-blue">Rješenje</label>
-  </div>
-
-  <div id="pane-11" class="acc-panel" markdown="1">
+    <!-- Change to checkbox and remove 'name' -->
+    <input type="checkbox" id="acc-11" class="acc-state">
+      <div class="acc-btn-row">
+      <label for="acc-11" class="btn btn-blue">Rješenje</label>
+    </div>
+    <div id="pane-11" class="acc-panel" markdown="1">
 ### Rješenje
 Dobiveni rezultat usporediti s ručno izračunatom vrijednošću.
+  </div>
   </div>
     <br>
     <strong>Zadatak 6</strong>
@@ -271,14 +271,19 @@ Dobiveni rezultat usporediti s ručno izračunatom vrijednošću.
 nasuprotnih izjednačenih kuteva βizj i γizj.
     <br>
     <div class="btn-acc-group">
-  <!-- Change to checkbox and remove 'name' -->
-  <input type="checkbox" id="acc-12" class="acc-state">
-
-  <div class="acc-btn-row">
-    <label for="acc-12" class="btn btn-blue">Rješenje</label>
-  </div>
+      <!-- Change to checkbox and remove 'name' -->
+      <input type="checkbox" id="acc-12" class="acc-state">
+      <div class="acc-btn-row">
+      <label for="acc-12" class="btn btn-blue">Rješenje</label>
+      </div>
 
   <div id="pane-12" class="acc-panel" markdown="1">
 ### Rješenje
 Dobiveni rezultat usporediti s ručno izračunatom vrijednošću.
   </div>
+</div>
+</details>
+<br>
+<button class="btn btn-blue" onclick="var details=document.querySelectorAll('details'); details.forEach(function(d){ d.setAttribute('open', 'true'); }); window.print();">
+  🖨 Ispiši
+</button>

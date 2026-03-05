@@ -124,6 +124,7 @@ Za n=50, zbroj članova niza je 0.7953941713587581.
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   </div>
+  </div>
   <br>
   <strong>Zadatak 6</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd te kôd u Javi za klasu koja za zadani n izračunava z= 3! + 6 ! + 9! + ⋯ + (3 n)! .</p>
@@ -137,6 +138,7 @@ Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   <div id="pane-10" class="acc-panel" markdown="1">
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
+  </div>
   </div>
   <br>
   <strong>Zadatak 7</strong>
@@ -152,6 +154,7 @@ Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   </div>
+  </div>
   <br>
   <strong>Zadatak 8</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd te kôd u Javi za klasu koja ispisuje sve savršene brojeve do 500 te koliko ih ima. Objašnjenje: Broj je savršen ako je jednak zbroju svojih djelitelja (sam broj se ne računa, npr. 6=1+2+3).</p>
@@ -165,6 +168,7 @@ Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   <div id="pane-12" class="acc-panel" markdown="1">
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
+  </div>
   </div>
   <br>
   <strong>Zadatak 9</strong>
@@ -180,6 +184,7 @@ Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   </div>
+  </div>
   <br>
   <strong>Zadatak 10</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd te kôd u Javi za klasu koja odreñuje koliko ima prirodnih troznamenkastih brojeva djeljivih sa 7.</p>
@@ -193,6 +198,7 @@ Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   <div id="pane-14" class="acc-panel" markdown="1">
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
+  </div>
   </div>
   <br>
   <strong>Zadatak 11</strong>
@@ -208,3 +214,9 @@ Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   </div>
+  </div>
+  </details>
+  <br>
+<button class="btn btn-blue" onclick="var details=document.querySelectorAll('details'); details.forEach(function(d){ d.setAttribute('open', 'true'); }); window.print();">
+  🖨 Ispiši
+</button>

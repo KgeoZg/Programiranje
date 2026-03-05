@@ -140,6 +140,7 @@ Uz vrijednost x = 0,5, za postizanje točnosti 10-7 potrebno je u obzir uzeti 9 
 2. Za postizanje točnosti od 0,001 potrebno je uzeti 501 član i u tom je slučaju y=
 0,7858971648964472
   </div>
+  </div>
   <br>
   <strong>Zadatak 6</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd i kôd u Javi za klasu koja pomoću zadane vrijednosti argumenta x sa svojstvom x > 1 izračunava vrijednost funkcije y $$ y= \frac{x-1}{x} + \frac {(x-1)^2}{2x^2} + \frac {(x-1)^3}{3x^3} + \frac {(x-1)^4}{4x^4} + ... $$
@@ -155,6 +156,7 @@ Uz vrijednost x = 0,5, za postizanje točnosti 10-7 potrebno je u obzir uzeti 9 
 ### Rješenje
 Uz vrijednost x = 4, za postizanje točnosti 10-7 potrebno je u obzir uzeti 43 člana i u tom je slučaju y = 1,3862940890080955.
   </div>
+  </div>
   <br>
   <strong>Zadatak 7</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd i kôd u Javi za klasu koja pomoću zadane vrijednosti argumenta x sa svojstvom ∣x∣ < 1 izračunava vrijednost funkcije y $$ y=x^2 - \frac {x^4}{2} + \frac {x^6}{3} - \frac {x^8}{4} + \frac {x^10}{5} - \frac {x^12}{6} + ... $$</p>
@@ -168,6 +170,7 @@ Uz vrijednost x = 4, za postizanje točnosti 10-7 potrebno je u obzir uzeti 43 �
   <div id="pane-11" class="acc-panel" markdown="1">
 ### Rješenje
 Uz vrijednost x = 0,5, za postizanje točnosti 10-7 potrebno je u obzir uzeti 10 članova i u tom je slučaju y = 0,22314353367638967.
+  </div>
   </div>
   <br>
   <strong>Zadatak 8</strong>
@@ -186,6 +189,7 @@ Uz vrijednost x = 0,5, za postizanje točnosti 10-7 potrebno je u obzir uzeti 10
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću za bliske brojeve k i n.
   </div>
+  </div>
   <br>
   <strong>Zadatak 9</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd i kôd u Javi za klasu koja računa drugi korijen iz zadanog realnog broja rb (rb > 0) s točnošću 0.0000001 po formuli: $$ x_{i+1} = \frac {1}{2} (x_i + \frac{rb}{x_i}) $$ $$ i=0, 1, 2, ... $$ $$ x_0 =rb $$ upotrebom petlje do/while.</p>
@@ -199,6 +203,7 @@ Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću za bliske bro
   <div id="pane-13" class="acc-panel" markdown="1">
 ### Rješenje
 Dobivenu vrijednost usporediti s vrijednošću izračunatom u vanjskom programu (npr. Microsoft Excel).
+  </div>
   </div>
   <br>
   <strong>Zadatak 10</strong>
@@ -215,6 +220,7 @@ Dobivenu vrijednost usporediti s vrijednošću izračunatom u vanjskom programu 
 ### Rješenje
 Dobivenu vrijednost usporediti s vrijednošću izračunatom u vanjskom programu (npr. Microsoft Excel).
   </div>
+  </div>
   <br>
   <strong>Zadatak 11</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd i kôd u Javi za klasu koja zadani prirodni broj rastavlja na proste faktore, tj. ispisuje ga kao umnožak prostih brojeva.<br>Npr. 600 = 1⋅2⋅2⋅2⋅3⋅5⋅5 .</p>
@@ -229,3 +235,9 @@ Dobivenu vrijednost usporediti s vrijednošću izračunatom u vanjskom programu 
 ### Rješenje
 Za broj 600, ispis glasi 1⋅2⋅2⋅2⋅3⋅5⋅5.
   </div>
+  </div>
+</details>
+<br>
+<button class="btn btn-blue" onclick="var details=document.querySelectorAll('details'); details.forEach(function(d){ d.setAttribute('open', 'true'); }); window.print();">
+  🖨 Ispiši
+</button>

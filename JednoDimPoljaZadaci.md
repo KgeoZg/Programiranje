@@ -207,6 +207,7 @@ Ispisati polje z te polja x i y i usporediti rezultate.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 10</strong>
     <p align="justify">Kreirati polje x duljine 20 tako da su vrijednosti elemenata polja jednaka kvadratu njihovih položaja u polju, tj. kvadratu indeksa elemenata polja. Ispisati polje x.</p>
@@ -220,6 +221,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-18" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 11</strong>
@@ -235,6 +237,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 12</strong>
     <p align="justify">Pomoću tipkovnice učitati prirodan broj n (2 < n ≤ 10) i elemente 2 polja x i y duljine n. Kreirati i ispisati polje z od učitanih elemenata polja x i y u sljedećem redoslijedu: $ x_1, y_n, x_2, y_{n-1}, x_3, y_{n-2}, ..., x_n, y_1. $</p>
@@ -248,6 +251,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-20" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 13</strong>
@@ -263,6 +267,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 14</strong>
     <p align="justify">Pomoću tipkovnice učitati elemente polja x duljine 20. Izračunati i ispisati aritmetičku sredinu, odstupanja od aritmetičke sredine i medijan.</p>
@@ -276,6 +281,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-22" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 15</strong>
@@ -291,6 +297,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 16</strong>
     <p align="justify">Pomoću tipkovnice učitati prirodan broj n (2 < n ≤ 10). Izračunati i ispisati xn, ako relacija koja povezuje uzastopna tri člana glasi: $ x_{n+2} – 5x_{n+1} + 6x_n = 0 $. Vrijednosti za $ x_1 $ i $ x_2 $ su: $ x_1 =0, x_2 = -6 $.</p>
@@ -305,6 +312,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 17</strong>
     <p align="justify">Ispisati prvih 10 članova Fibonaccijevog niza. Fibonaccijev niz je niz u kojemu je svaki član jednak zbroju dvaju prethodnih. Prva dva člana Fibonaccijeva niza jednaka su 1.</p>
@@ -318,6 +326,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-25" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 18</strong>
@@ -335,6 +344,7 @@ Najvjerojatnija vrijednost duljine dužine računa se pomoću izraza: $$ L = \fr
   <div id="pane-26" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 19</strong>
@@ -390,6 +400,7 @@ $$ P = \frac {\sum\limits_{i=1}^n [E_i * (N_{i-1}-N_{i+1})]}{2}; N_0=N_n, N_{n+1
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 20</strong>
     <p align="justify">Vrijednost jednog kuta izmjerena je 4 puta i to prvi put opažanjem u 3 girusa, drugi put u
@@ -441,6 +452,7 @@ mjerenja, a li vrijednost kuta pojedinog mjerenja.</p>
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 21</strong>
     <p align="justify">Sastavite dijagram toka ili pseudokôd te kôd u Javi za klasu koja na temelju poznatih nadmorskih visina $H_A = 356.425m $ i $ H_B = 358.681m $ repera A i B, visinskih razlika $$Δ_{h1} = 0.502m, Δ_{h2} = 0.383m, Δ_{h3} = 0.475m, Δ_{h4} = 0.456m, Δ_{h5} = 0.284m i Δ_{h6} = 0.168m $$ određenih
@@ -465,4 +477,9 @@ gdje je $f_h = (H_B - H_A) - \sum\limits_{j=1}^6 Δh_i $.</p>
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
-  <br>
+  </div>
+</details>
+<br>
+<button class="btn btn-blue" onclick="var details=document.querySelectorAll('details'); details.forEach(function(d){ d.setAttribute('open', 'true'); }); window.print();">
+  🖨 Ispiši
+</button>

@@ -1,0 +1,15 @@
+
+    {% assign year = "now" | date: "%Y" | plus: 0 %}
+    {% assign month = "now" | date: "%m" | plus: 0 %}
+    {% if month >= 10 %}
+        {% assign start = year %}
+        {% assign end = year | plus: 1 %}
+    {% else %}
+    {% assign start = year | minus: 1 %}
+    {% assign end = year %}
+    {% endif %}
+<div class="site-footer">
+ <p align="right"> Geodetski fakultet<br>
+    Katedra za geoinformacije<br>
+    Ak. god. {{ start }}/{{ end }}</p>
+</div>

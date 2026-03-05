@@ -9,26 +9,6 @@
   };
 </script>
 
-{% if page.print %}
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const btn = document.createElement("button");
-  btn.innerText = "🖨️";
-  btn.className = "print-button";
-  btn.style.position = "fixed";
-  btn.style.top = "20px";
-  btn.style.right = "20px";
-  btn.style.zIndex = "9999";
-  btn.onclick = () => window.print();
-  document.body.appendChild(btn);
-});
-</script>
 
-<style>
-.print-button {
-  padding: 10px 14px;
-  font-size: 16px;
-  cursor: pointer;
-}
-</style>
-{% endif %}
+
+<script src="{{ 'assets/js/print-custom.js' | relative_url }}"></script>

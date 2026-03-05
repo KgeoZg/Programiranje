@@ -6,7 +6,7 @@ parent: Dijagram toka i pseudokod
 print: true
 ---
 
-# Zadatci za vježbu<br>
+# Zadatci za vježbu
 <strong>Zadatak 1</strong><br>
 <p align="justify">Sastaviti dijagram toka i pseudokôd za kôd programa koji računa opseg katastarske čestice čije su stranice proizvoljnih duljina te ispisuje izračunatu vrijednost.
 <br>
@@ -138,7 +138,6 @@ Ispis rezultata treba biti u obliku:<br>
   </div>
 </div>
 <br>
-
 <details>
 <br>
     <summary><strong>Dodatni zadaci</strong></summary>
@@ -181,3 +180,7 @@ D;</ul>
     Kontrola računanja vezana je uz izračunate vrijednosti duljina b i c, odnosno njima
 nasuprotnih izjednačenih kuteva βizj i γizj.
 </details>
+<br>
+<button class="btn btn-blue" onclick="var details=document.querySelectorAll('details'); details.forEach(function(d){ d.setAttribute('open', 'true'); }); window.print();">
+  🖨 Ispiši
+</button>

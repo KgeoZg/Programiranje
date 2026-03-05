@@ -108,6 +108,7 @@ Za vrijednost decimalnog broja -3,12, zbroj znamenki je 6, a umnožak 6.
 ### Rješenje
 Dobiveni rezultat usporediti s ručno određenim slogovima.
   </div>
+  </div>
   <br>
     <strong>Zadatak 5</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd i kôd u Javi za klasu koja pomoću tipkovnice učita prirodni broj s neparnim brojem znamenaka te potom ispiše njegovu srednju znamenku.
@@ -122,6 +123,7 @@ Dobiveni rezultat usporediti s ručno određenim slogovima.
   <div id="pane-8" class="acc-panel" markdown="1">
 ### Rješenje
 Dobiveni rezultat usporediti s ručno određenom znamenkom.
+  </div>
   </div>
   <br>
   <strong>Zadatak 6</strong>
@@ -138,6 +140,7 @@ Dobiveni rezultat usporediti s ručno određenom znamenkom.
 ### Rješenje
 Dobiveni rezultat usporediti s ručno određenim rezultatom.
   </div>
+  </div>
   <br>
   <strong>Zadatak 7</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd i kôd u Javi za klasu koja učita neku riječ pomoću tipkovnice te provjeri je li zadana riječ palindrom, tj. da li se riječ čita jednako s početka i s kraja. Koristiti metodu charAt() klase String.
@@ -153,6 +156,7 @@ Dobiveni rezultat usporediti s ručno određenim rezultatom.
 ### Rješenje
 Dobiveni rezultat usporediti s ručno određenim rezultatom.
   </div>
+  </div>
   <br>
   <strong>Zadatak 8</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd i kôd u Javi za klasu koja učita neku riječ pomoću tipkovnice te provjeri je li zadana riječ palindrom, tj. da li se riječ čita jednako s početka i s kraja. Koristiti metodu reverse() klase StringBuffer
@@ -167,6 +171,7 @@ Dobiveni rezultat usporediti s ručno određenim rezultatom.
   <div id="pane-11" class="acc-panel" markdown="1">
 ### Rješenje
 Dobiveni rezultat usporediti s ručno određenim rezultatom.
+  </div>
   </div>
   <br>
   <strong>Zadatak 9</strong>
@@ -185,6 +190,7 @@ Dobiveni rezultat usporediti s ručno određenim rezultatom.
 ### Rješenje
 Dobiveni rezultat usporediti s ručno određenim rezultatom.
   </div>
+  </div>
   <br>
   <strong>Zadatak 10</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd i kôd u Javi za klasu koja pomoću tipkovnice učitava nazive, x i y koordinate dviju točaka te izračuna udaljenost tih dviju točaka. Podaci za pojedinu točku zadaju se u jednom retku.<br>
@@ -202,6 +208,7 @@ Dobiveni rezultat usporediti s ručno određenim rezultatom.
 ### Rješenje
 Dobiveni rezultat usporediti s ručno određenim rezultatom.
   </div>
+  </div>
   <br>
   <strong>Zadatak 11</strong>
     <p align="justify">Sastaviti dijagram toka ili pseudokôd i kôd u Javi za klasu koja pomoću tipkovnice učitava elemente 2D polja koje ima m redaka (m>3) s različitim brojem elemenata u retcima te izračuna zbroj svih elemenata tog polja. Svi elementi pojedinog retka zadaju se odjednom, odvajajući ih praznim mjestima (“space” tipka).
@@ -217,4 +224,9 @@ Dobiveni rezultat usporediti s ručno određenim rezultatom.
 ### Rješenje
 Dobiveni rezultat usporediti s ručno određenim rezultatom.
   </div>
+  </div>
+</details>
   <br>
+<button class="btn btn-blue" onclick="var details=document.querySelectorAll('details'); details.forEach(function(d){ d.setAttribute('open', 'true'); }); window.print();">
+  🖨 Ispiši
+</button>

@@ -163,6 +163,7 @@ F(i-1) + F(i-2) & \text{ako je } i > 1; \\
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   </div>
+  </div>
   <br>
   <strong>Zadatak 6</strong>
     <p align="justify">Za zadane vrijednosti y1 i y2 potrebno je izračunati konstantu k po formuli:
@@ -197,6 +198,7 @@ Napisati klasu <strong><em>MainKonstanta</em></strong> u kojoj se kreira objekt 
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   </div>
+  </div>
   <br>
   <strong>Zadatak 7</strong>
     <p align="justify">Izračunati smjerni kut s točke $T_a$ ($E_a$, $N_a$) na točku $T_b$($E_b$, $N_b$).
@@ -221,4 +223,9 @@ minute sekunde", npr. 167 02 07.898.
 ### Rješenje
 Dobivenu vrijednost usporediti s ručno izračunatom vrijednošću.
   </div>
-  <br>
+  </div>
+</details>
+<br>
+<button class="btn btn-blue" onclick="var details=document.querySelectorAll('details'); details.forEach(function(d){ d.setAttribute('open', 'true'); }); window.print();">
+  🖨 Ispiši
+</button>

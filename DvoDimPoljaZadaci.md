@@ -290,6 +290,7 @@ Ispisati oba dvodimenzionalna polja i usporediti ispisane rezultate.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 12</strong>
     <p align="justify">Pomoću tipkovnice učitati elemente matrice A tipa m×n. Ispisati elemente k-tog stupca matrice.</p>
@@ -303,6 +304,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-22" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 13</strong>
@@ -318,6 +320,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 14</strong>
     <p align="justify">Pomoću tipkovnice učitati elemente kvadratne matrice A reda n. Kreirati jednodimenzionalno polje čije su vrijednosti elementa jednake vrijednostima elemenata na sporednoj dijagonali zadane matrice. Ispisati elemente tako kreiranog polja.</p>
@@ -331,6 +334,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-24" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 15</strong>
@@ -346,6 +350,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 16</strong>
     <p align="justify">Pomoću tipkovnice učitati elemente kvadratne matrice A reda n. Kreirati jednodimenzionalno polje x čije su vrijednosti elementa jednake negativnim vrijednostima elemenata (negativni elementi) matrice i jednodimenzionalno polje y čije su vrijednosti elemenata jednake pozitivnim vrijednostima elemenata (pozitivni elementi) matrice. Ispisati matricu A te polja x i y.</p>
@@ -359,6 +364,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-26" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 17</strong>
@@ -374,6 +380,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 18</strong>
     <p align="justify">Pomoću tipkovnice učitati elemente kvadratne matrice A reda n. Ispisati zbroj elemenata koji se ne nalaze na "obodu" (obod definiramo kao uniju elemenata prvog retka, prvog stupca, zadnjeg retka i zadnjeg stupca) matrice.</p>
@@ -387,6 +394,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-28" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 19</strong>
@@ -402,6 +410,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 20</strong>
     <p align="justify">Pomoću tipkovnice učitati elemente matrica A i B tipa m×n. Izračunati i ispisati matricu C=A+B.</p>
@@ -415,6 +424,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-30" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 21</strong>
@@ -430,6 +440,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 22</strong>
     <p align="justify">Pomoću tipkovnice učitati elemente vektora-retka x i y. Izračunati i ispisati $x^Ty$ i $xy^T$.</p>
@@ -443,6 +454,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-32" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 23</strong>
@@ -458,6 +470,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 24</strong>
     <p align="justify">Gaussovom metodom eliminacije riješiti linearni sustav od 3 jednadžbe s 3 nepoznanice, npr.: $$ x + 2y + 3z = 5, $$  $$ 2x - y - z = 1, $$ $$x + 3y + 4z = 6. $$</p>
@@ -472,6 +485,7 @@ Ručno provjeriti dobiveno rješenje.
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
+  </div>
   <br>
   <strong>Zadatak 25</strong>
     <p align="justify">Gaussovom metodom eliminacije riješiti linearni sustav od 3 jednadžbe s 3 nepoznanice, npr.: $$ x + 2y + 3z = 5, $$  $$ 2x - y - z = 1, $$ $$x + 3y + 4z = 6. $$</p>
@@ -485,6 +499,7 @@ Ručno provjeriti dobiveno rješenje.
   <div id="pane-35" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 26</strong>
@@ -539,6 +554,7 @@ $$ P = \frac {\sum\limits_{i=1}^n [E_i * (N_{i-1}-N_{i+1})]}{2}; N_0=N_n, N_{n+1
   <div id="pane-36" class="acc-panel" markdown="1">
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
+  </div>
   </div>
   <br>
   <strong>Zadatak 27</strong>
@@ -631,4 +647,9 @@ $$dy_i = y_i - y_{i-1}, dx_i = x_i - x_{i-1}. $$
 ### Rješenje
 Ručno provjeriti dobiveno rješenje.
   </div>
-  <br>
+  </div>
+</details>
+<br>
+<button class="btn btn-blue" onclick="var details=document.querySelectorAll('details'); details.forEach(function(d){ d.setAttribute('open', 'true'); }); window.print();">
+  🖨 Ispiši
+</button>
