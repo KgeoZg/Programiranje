@@ -6,7 +6,7 @@ gem "just-the-docs"
 gem "jekyll-remote-theme"
 
 # Ruby 3.4.0 fixes
-gem "jekyll-sass-converter", "~> 2.2"
+gem "jekyll-sass-converter", "~> 3.1"
 gem "bigdecimal", "~> 3.1"
 gem "logger", "~> 1.6"
 gem "mutex_m", "~> 0.3.0"
